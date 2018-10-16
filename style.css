@@ -1,0 +1,155 @@
+body {
+    padding: 20px;
+    font-family: Roboto, Arial, sans-serif; 
+}
+
+h2 {
+    font-weight: 400; 
+}
+
+.views {
+    color: gray;
+}
+
+.logo {
+    width: 80px;  
+    margin-left: 15px;
+}
+
+.icon {
+    color: gray;
+}
+
+.search {
+    width: 600px;
+    margin-left: 15%;
+}
+.img-search {
+    width: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: -10px;
+    background-color: lightgray;
+    margin-left: -9px;
+}
+.navbar {
+   margin-bottom: 5px;
+   position: relative;
+   box-shadow: 0px 4px 5px -3px lightgray;
+   padding-bottom: 15px;
+}
+
+.videos {
+    padding-top: 10px;
+}
+
+.topnav-icons {
+    margin-left: 10px;
+    margin-right: 10px;
+    float: right;
+    width: 25px;
+}
+
+.video-thumbnail {
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+.next-videos {
+    margin: 10px;
+}
+
+.bohemian {
+    float: right;
+    margin-right: -30px;
+}
+
+.channel-area {
+    width: 900px;
+    height: 515px;
+}
+
+.dislike {
+    width: 25px;
+    float: right;
+    margin: 5px;
+    margin-bottom: 10px;
+}
+
+.like {
+    width: 25px;
+    float: right;
+    margin: 5px;
+    margin-top: 0;
+}
+
+
+.share {
+    width: 25px;
+    float: right;
+    margin: 5px;
+}
+
+.channel-info {
+    border-radius: 100px;
+    margin: 10px;
+}
+
+.text {
+    float: right;
+    margin-top: 5px;
+    margin-right: 10px;
+    color: gray;
+}
+
+hr {
+   color: whitesmoke;
+}
+
+.date {
+    margin-left: 12px;
+    color: gray;
+    font-size: 14px;
+    margin-bottom: -10px;
+}
+
+.channel-name {
+    margin-left: 80px;
+    font-weight: bold;
+    width: 600px;
+    margin-bottom: -5px;
+  
+}
+
+.subscribe-button {
+    padding: 10px 16px;
+    border-radius: 2px;
+    white-space: nowrap;
+    font-size: 1rem;
+    font-weight: 500;
+    letter-spacing: .007px;
+    text-transform: uppercase;
+    background-color: #ff0000;
+    color: #fff;
+    border-style: solid;
+    margin-left: 450px;
+}
+
+.publish {
+    width: 900px;
+    padding: 1px;
+}
+
+.discription {
+    margin-left: 95px;
+}
+
+.song-name {
+    margin-left: 80px;
+}
+
+.show-more {
+    margin-left: 80px;
+    color: gray; 
+    font-size: 15px;
+}
